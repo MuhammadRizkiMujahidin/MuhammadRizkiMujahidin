@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/ZTwrNdn/github-banner.png" alt="Banner" width="100%" />
-</p>
-
 <!-- Greetings -->
 <h1 align="center">Hi there 👋, I'm Rizki</h1>
 <h3 align="center">✨ Fullstack Developer | Tech Explorer | Open Source Enthusiast ✨</h3>
